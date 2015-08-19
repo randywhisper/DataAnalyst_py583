@@ -1,0 +1,42 @@
+0	1	Politics/ economics
+17	1	Business, economics and finance
+35	1	Politics and government
+16	2	Biology
+18	2	Chemistry and mineralogy
+26	2	Health and medicine
+3	2	Science / Biology / Health
+38	3	Sport and recreation
+5	3	Sports
+30	4	Mathematics
+34	4	Physics and astronomy
+10	5	Psychiatry
+33	5	Philosophy and psychology
+9	5	Philosophy
+12	6	Media/culture
+20	6	Culture and society
+29	6	Literature and theatre
+31	6	Media
+11	7	Technology
+19	7	Computing
+22	7	Engineering and technology
+40	7	Video gaming
+2	8	Religion
+36	8	Religion, mysticism and mythology
+13	9	People/ public figures/ infamous persons
+37	9	Royalty, nobility and heraldry
+15	9	Awards, decorations and vexillology
+27	10	Language and linguistics
+8	10	Linguistics
+1	11	History
+28	11	Law
+41	11	Warfare
+4	12	Sexuality
+32	13	Music
+6	13	Entertainment
+7	14	Environment
+23	15	Food and drink
+21	16	Education
+39	17	Transport
+14	18	Art, architecture and archaeology
+24	18	Geography and places
+25	19	Geology, geophysics and meteorology
